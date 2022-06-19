@@ -1,0 +1,16 @@
+wp-content/plugins/pirate-forms/css/front.css
+wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css
+wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap.min.css
+wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap_ms.css
+wp-content/themes/shop-isle/assets/css/vendor/magnific-popup.css
+wp-content/themes/shop-isle/assets/css/vendor/flexslider.css
+wp-content/themes/shop-isle/assets/css/vendor/owl.carousel.css
+wp-content/themes/shop-isle/assets/css/vendor/animate.css
+wp-content/themes/shop-isle/assets/css/style.css
+wp-content/themes/shop-isle/inc/woocommerce/css/woocommerce.css
+wp-content/plugins/woocommerce-product-bundles/assets/css/wc-pb-frontend.css
+wp-includes/js/jquery/jquery.js
+wp-includes/js/jquery/jquery-migrate.min.js
+wp-content/plugins/pirate-forms/js/scripts-general.js
+wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js
+wp-includes/wlwmanifest.xml
